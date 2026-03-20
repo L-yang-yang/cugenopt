@@ -227,7 +227,7 @@ If you use cuGenOpt in your research, please cite:
 @article{liu2026cugenopt,
   title={cuGenOpt: A GPU-Accelerated General-Purpose Metaheuristic Framework for Combinatorial Optimization},
   author={Liu, Yuyang},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:2603.19163},
   year={2026}
 }
 ```
