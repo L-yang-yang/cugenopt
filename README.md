@@ -6,7 +6,7 @@
 [![CUDA](https://img.shields.io/badge/CUDA-11.0%2B-green.svg)](https://developer.nvidia.com/cuda-toolkit)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
-**Paper**: [cuGenOpt: A GPU-Accelerated General-Purpose Metaheuristic Framework for Combinatorial Optimization](http://arxiv.org/abs/2603.19163) *(Coming soon)*
+**Paper**: [cuGenOpt: A GPU-Accelerated General-Purpose Metaheuristic Framework for Combinatorial Optimization](http://arxiv.org/abs/2603.19163) 
 
 ---
 
