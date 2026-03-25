@@ -1,7 +1,12 @@
 # cuGenOpt
 
-> **A GPU-Accelerated General-Purpose Metaheuristic Framework for Combinatorial Optimization**
+<p align="center">
+  <img src="logo.png" alt="cuGenOpt" width="200">
+</p>
 
+<h1 align="center">cuGenOpt</h1>
+
+<p align="center"><b>A GPU-Accelerated General-Purpose Metaheuristic Framework for Combinatorial Optimization</b></p>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![CUDA](https://img.shields.io/badge/CUDA-11.0%2B-green.svg)](https://developer.nvidia.com/cuda-toolkit)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
