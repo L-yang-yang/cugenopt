@@ -11,6 +11,7 @@
 <h1 align="center">cuGenOpt</h1>
 
 <p align="center"><b>A GPU-Accelerated General-Purpose Metaheuristic Framework for Combinatorial Optimization</b></p>
+
 **Paper**: [cuGenOpt: A GPU-Accelerated General-Purpose Metaheuristic Framework for Combinatorial Optimization](https://arxiv.org/abs/2603.19163) 
 
 ---
